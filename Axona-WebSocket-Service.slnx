@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Axona-Websocket-Service-Installer/Axona-Websocket-Service-Installer.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="Axona-WebSocket-Service.csproj" />
+</Solution>
